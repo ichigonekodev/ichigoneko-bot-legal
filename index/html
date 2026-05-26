@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>IchigoNeko Bot - Legal</title>
+</head>
+<body style="font-family: Arial; max-width: 800px; margin: 40px auto; line-height: 1.6;">
+
+  <h1>IchigoNeko Bot</h1>
+
+  <h2>Terms of Service</h2>
+  <p>
+    This Discord bot is provided as-is with no guarantees of uptime or performance.
+    By using the bot, you agree not to abuse, spam, or exploit its functionality.
+    The developer is not responsible for user-generated or AI-generated content.
+  </p>
+
+  <h2>Privacy Policy</h2>
+  <p>
+    This bot may temporarily store user IDs and message content to provide conversation memory and functionality.
+  </p>
+
+  <p>
+    Messages may be processed by third-party AI services (such as OpenRouter) to generate responses.
+    No personal data is sold or shared outside required API processing.
+  </p>
+
+  <p>
+    Data is not permanently stored unless required for features like conversation memory.
+  </p>
+
+</body>
+</html>
